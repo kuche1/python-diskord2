@@ -7,10 +7,6 @@ from _client import start_client
 
 
 
-#ip = read_str('client-ip.txt')
-#port = read_int('client-port.txt')
-
-
 def main_menu():
 	if read_bool('client/auto-connect-on-startup.txt'):
 		server_addr = read_addr('client/auto-connect-to.txt')

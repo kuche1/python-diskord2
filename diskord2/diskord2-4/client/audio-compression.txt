@@ -1,4 +1,6 @@
 5#0-9
-9 za nai-dobur compression, iziskva procesor
-0 za nai-shiban[possibly nikakuv] compression, iziskva net
-kolkoto po-golemi sa ti paketite, tolkova po-baven i efektiven e compression-a
+
+9 best compression, requires more CPU
+0 worst[possibly none] compression, requires internet speed
+
+the bigger the packet, the slower(and the more effective) the compression
