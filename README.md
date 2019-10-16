@@ -1,6 +1,6 @@
 # client-server voice chat
-
-includes:
+  
+includes:  
 10 levels of data compression (for better bandwidth or CPU usage)
 mute/unmute changable hotkey
 microphone (input) volume
