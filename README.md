@@ -5,5 +5,5 @@ includes:
 mute/unmute changable hotkey  
 microphone (input) volume  
 speakers (output) volume  
-set output volume per-client (for when only 2 of your 5 friends are being too quiet / too loud)  
+set output volume per-participant (for when only 2 of your 5 friends are being too quiet / too loud)  
   
